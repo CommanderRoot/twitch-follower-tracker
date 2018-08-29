@@ -1,3 +1,4 @@
+capsulecore
 wishgr4nted
 spharax
 myfreescams
@@ -2840,7 +2841,6 @@ srsly_qt
 hdoran1094
 elvenrebel
 linkgamin008
-saliheristi
 badassgamer2018
 miguel25143
 war_exe_
@@ -31143,7 +31143,7 @@ awholesomegamer
 itsmacedo
 echofunction
 thearkitects
-tomboplay5
+tombo343
 crisyis
 cobracash1
 offstagemink5
