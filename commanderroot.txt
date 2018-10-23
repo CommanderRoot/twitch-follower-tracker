@@ -1,3 +1,4 @@
+dns0
 kerric
 tnavres
 w3tlik3wat3r
@@ -567,7 +568,6 @@ rumpledforskin77
 jonavarkcs
 n1t3t1me
 ahyousirname
-teslaplaytm
 chadepanela
 seriouslyabanana
 therealbudspencer
@@ -31805,7 +31805,7 @@ waresbutters
 budlight1986
 rt_elusive
 ryuboi651
-myjokeisamazing
+myrivenisamazing
 stephenm24
 elscada
 marquelle10
@@ -37519,7 +37519,6 @@ divorcenotdeath
 cobhc2005
 presidenthanks
 snipingenos23
-jakeylad0936
 beatzfps
 iceyshort
 santifz
