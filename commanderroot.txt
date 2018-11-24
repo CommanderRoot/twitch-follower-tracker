@@ -1,3 +1,4 @@
+battle_lp
 gpuniversetv
 pierolucha13
 tatsmashemall
@@ -1370,7 +1371,6 @@ lotuzx
 thecreislop
 sirdanji
 grizzy2
-thuggen
 karaboska
 f4de_d3stiny
 b33zy1103
@@ -15579,7 +15579,7 @@ garrison913
 liveatthebikefi
 lemonadestand57
 oekeksssss
-aiden_scoresby
+mc_frizzly
 vash123498
 bmacfo
 lvldark
@@ -22580,7 +22580,6 @@ ceiceu
 fuzion_play
 towneylock
 why_honey
-end7my
 deadlykevin7
 pedrisk_
 ijordy
