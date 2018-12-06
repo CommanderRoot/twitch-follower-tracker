@@ -329,7 +329,6 @@ set4light
 sw1ftygam1ng
 12h01
 shimnik
-friction76
 gerbxchaos
 len_south
 cheni704
@@ -28560,7 +28559,7 @@ odo480
 n1ma94
 m0rtalis
 doggosr
-noriasus
+noriaaaa
 mogul_tp
 apc106
 kensaucin
