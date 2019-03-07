@@ -21975,7 +21975,6 @@ buffgolden88
 zap_builds
 tornedskies
 alwaysmindstudios
-aaron_linux
 reddognesgamer
 freshk1ckz
 trapzone2
@@ -53978,7 +53977,6 @@ earthquakexxx
 der_jaro
 minecraftpro87
 lyrill
-akamorale
 dreadedgaming
 kevinforgot
 gorothia
