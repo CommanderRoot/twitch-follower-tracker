@@ -1,3 +1,4 @@
+twitch_arii
 blueking_a1
 coberngames
 gambaihost
@@ -35,7 +36,6 @@ layslayer
 dittatv
 ecko1973
 onetwentiiseven
-alexjidiondo
 thebatmandrew
 snazzyxxv25
 breattick01
@@ -456,7 +456,6 @@ glgkingj
 zeeraux
 graamix
 buckslugga
-guesturz
 jaybogaming801
 dottor_gonzo_tv
 razoring_knife
