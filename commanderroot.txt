@@ -1,3 +1,5 @@
+aero_roo
+diablo_qp
 jnuppy
 oheczer
 ay3_jay
@@ -990,7 +992,6 @@ mefiu19923
 turtlechu
 cowboyytv
 kylesullivan4
-iceman53246
 pandamarkii
 pearlyp1500
 mrtayguy
@@ -7084,7 +7085,6 @@ yamkalia
 qc_morph
 remaxs
 xxaivinxx
-batragon
 khor_hitta
 osneezy
 rolliepollietv
@@ -54149,7 +54149,7 @@ oothemoleoo
 atomaffe
 xxkevxx257er
 blackcookie91
-devin1601
+bauerdgurke
 kurubanane
 solidsnake_bh23
 icekaffee
