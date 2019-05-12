@@ -3525,7 +3525,7 @@ buckeye_276
 1outlawgaming8
 itzcrampz
 rampage_ttv
-xhellzxfire
+xhellzfire
 kodyhuskee
 cookiesandorangejuice
 a_team_leader_28
@@ -45465,7 +45465,6 @@ maxfox1230
 fazeadamtwitch
 floris12fs
 connrg
-kidmistic
 pabloesco
 wickedaries
 msclutchy
