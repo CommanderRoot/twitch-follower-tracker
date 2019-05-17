@@ -1,3 +1,5 @@
+othestyle
+nono_duh
 ico1453
 florida_phil
 schmooster
@@ -14436,7 +14438,6 @@ yt_itzsk
 austeremuffin
 alvarogomeznicol
 futorain
-samthemaniac
 kusanagi765
 princepupper
 enriquethepimp
@@ -40771,7 +40772,6 @@ sir_cl0wn
 spank503
 tgf_fuze
 shadyelboraiy
-revizeuw
 mintrise
 sistermalarky
 tiago8v
@@ -50753,7 +50753,7 @@ clyderoll
 bofonic
 fafa_bot_tv
 paradox_animal
-twitch_sixmildog
+sixmildog
 xcorki
 proanthrax01
 togls
