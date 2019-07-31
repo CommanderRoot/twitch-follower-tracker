@@ -1,3 +1,5 @@
+tina_fi
+silentkilla0420
 brudermielke
 twitchvictorino
 itz_d2_ttv
@@ -41,7 +43,6 @@ jazzy_b3ar
 thomasdebaeke
 ry199887
 kskelitelp
-liria_
 monsterfalke93
 madwalkers
 princess_trippy
@@ -745,7 +746,6 @@ xsylum_smoke
 dr_julzor
 amg_joseph
 jobbihh
-hunterzow
 itouns
 stuflttv
 nlrsc
@@ -3833,7 +3833,7 @@ tf_justin315
 el_patron612
 judasslayer
 lemyslave19
-david_persson
+darth_divide
 murathanoyunda
 martinikent
 isguicho
