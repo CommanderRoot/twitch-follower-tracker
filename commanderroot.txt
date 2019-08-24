@@ -1,3 +1,6 @@
+showtime_lid
+notcetus
+seanville300
 xmelvin_stankus
 mrsalypotter
 gavan0491
@@ -6,7 +9,6 @@ archangel3007_
 sf8games
 hayle1728
 xmeek_3000x
-birthday_doge
 xpedropires
 jessicaconlon
 tai_lure
@@ -2059,7 +2061,6 @@ eteambrit_dominator
 marcouz19
 hopetochange
 pronicktheblade
-ewingz21
 chizelbot
 neiloffski
 elusivearcher
