@@ -1,3 +1,4 @@
+agentmortar
 notcetus
 kylemitchel_hein
 barret200
@@ -1419,7 +1420,6 @@ mauiislo
 panzercanon
 pickleticklexo
 diabeticturtleo
-rikolious1408
 thereal_crizzle
 redline369
 mullet187
@@ -37808,7 +37808,7 @@ petemiller134
 hellscowboy36
 dewogamerf
 chowxm
-562blanco_gee
+blanco_gee27
 defy_jojo
 tuklaw1
 yahghostxbl
@@ -42605,7 +42605,6 @@ aug_the_aussie
 omgamer64
 bacteriadisease
 idefreakonomicom
-xrennder
 mr_cuddle086
 themethod
 donimahooni
