@@ -1,3 +1,4 @@
+nl_devid_nl
 tsm_fille
 strambeek
 mrfreak_tv
@@ -31,7 +32,6 @@ timkev1988
 dragonmatt81
 aldrik0
 black_bird13
-neva69
 blacklestar37
 v_midnight_v
 quep4s4
@@ -44429,7 +44429,7 @@ maxtsvg
 strawbzgamer
 malcolmlambert
 shadowraiin
-rinzlerttv
+rinzlernl
 maykinman
 beardedmonkey454
 sonaaron
