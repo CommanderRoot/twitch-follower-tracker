@@ -1,3 +1,4 @@
+opexgw
 nl_devid_nl
 tsm_fille
 strambeek
@@ -1112,7 +1113,6 @@ twitchchannelverifierbot
 buehlerooln
 chrissithedissi
 zerosblackhole
-peaswad
 nctarbaby7700
 theps4gamernl
 xtci1
@@ -51288,7 +51288,6 @@ rateddabz
 mcwhiskeydrank
 hellkatkary
 trippiettv
-grazlonart
 beardedghost555
 purpleoldman
 chr0mii
