@@ -52499,7 +52499,6 @@ istan07
 pechinov
 jozyk
 x_ner
-ntro_
 reynan9
 fatsali521
 norelias
