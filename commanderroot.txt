@@ -1,3 +1,4 @@
+skill_ewen
 terminatori_czsk
 clfx_warrior
 sethcoleman
@@ -4019,7 +4020,6 @@ k1ssofd3ath41
 zytys
 tvortex2
 solstickfiguresbot
-arsonisticsaint
 b_randd
 tebyrd_ttv
 cxamilo123
@@ -16882,7 +16882,7 @@ picosnipes
 king_kong1812
 duiguineer
 rickmeister305
-wreckd_spectre
+syos_spectre
 redjeansxbo
 ryanjonezy
 yusufallygoojoo200
