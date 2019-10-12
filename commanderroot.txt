@@ -1,3 +1,4 @@
+get_bested
 archontheo
 chronic_hizro
 muriloggames
@@ -1098,7 +1099,6 @@ marsh007
 lady_rissa
 slitherysnake17631
 pinklinkmain
-squidythepyro
 kingchrum
 ambyroll
 raxym
@@ -43019,7 +43019,7 @@ skitz911
 hsartthetrash
 pottifps
 pinheadlarry03
-iiparkbum
+xelitepzycho
 keikostars
 therealsniperdude
 thesaint_dk
