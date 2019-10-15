@@ -13258,7 +13258,7 @@ vvonk
 cmg_broadcast
 swarm_geon
 poloman3005
-m4gic4atomix
+m4gic4tomix
 eagle_maniac
 gsp1r1t
 datboygunna
@@ -41922,7 +41922,6 @@ lininian
 hungrykid420
 arrimasarrington1
 darknezz29
-stoneraingaming
 tumij11
 hayd3n_courvill3
 jayden_blair4
