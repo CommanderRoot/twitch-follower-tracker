@@ -7975,7 +7975,6 @@ eu_pasm
 ryanreno
 nato2231
 qc_excalibure
-majorlazer139
 axcraken
 polandplays
 captpae
@@ -25641,7 +25640,7 @@ gilligaur
 strangelevel
 james772102
 olegtusnin
-cptzerakus
+zerakus
 kongkt
 jester_bane
 darkhi
