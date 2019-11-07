@@ -2735,7 +2735,6 @@ marcianx
 latorre17
 rindoari
 kiroslays
-gstreet
 kyleingalls75
 mamismilk
 dadash829
@@ -49701,7 +49700,6 @@ bigdrunk
 cheesyhippo
 is18is
 et1000eux
-spawn1970
 crockpotstew
 tannkkkkk
 pip_lam_pip
