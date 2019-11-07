@@ -1,3 +1,5 @@
+egc_simdog
+old_liperx
 bigdahdee
 rossellap91
 senaeru0615
@@ -25531,7 +25533,6 @@ citystarchaos
 leon_poe
 die23ers
 kayswan
-notfearix
 tbomaye
 the_forgetful_gamer
 g4brix28
@@ -46624,7 +46625,6 @@ notoriousmic
 arsonist_bomber
 drthc
 phoenix_remind
-drplumber1
 ojjuice04
 teamjoselux
 kezzathevape
