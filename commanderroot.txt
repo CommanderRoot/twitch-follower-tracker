@@ -1,3 +1,4 @@
+geyikci
 resqa_509
 spacerooster
 therealacesarewild
@@ -6200,7 +6201,6 @@ twitch_d3str0y
 sammichmaker_est2011
 wazawariix
 0b1bowesy
-madcowtv
 hydens9
 leocos
 pisi1337
@@ -40816,7 +40816,7 @@ oneroomm
 kinglegenbaer
 imthebest_208
 gavincmd
-ehaysyo
+mgmillx
 dj_ai
 lexflexius
 nenapapesa
