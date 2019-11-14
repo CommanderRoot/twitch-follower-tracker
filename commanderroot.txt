@@ -1,3 +1,4 @@
+endw
 apuessi
 d_unknown_d
 verenious
@@ -34434,7 +34435,6 @@ svane_gg
 od_dreamryder
 jaybronz91104
 timopolis
-konand1
 schabibi
 itsmesigi
 kh0lm
@@ -40192,7 +40192,7 @@ zgtha
 zulnon
 polonsam
 uncletouchy1
-foley89
+jamessavolam
 havocpigeon300
 cricrimc
 ddaddddy
