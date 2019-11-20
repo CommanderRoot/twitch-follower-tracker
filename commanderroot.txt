@@ -1,3 +1,4 @@
+amg_cloc
 bricksmith78
 ttv_crazyeye
 johansunny2nd
@@ -14989,7 +14990,6 @@ kreickitv
 ninja_nick18
 ghetto6tnine
 thrashquatch
-edgelordmage420
 jyondo
 gamerunleash3d
 rnelz007
@@ -40793,7 +40793,6 @@ snowwolfpl1997
 boyceyuk
 knick1820
 iluvmyth
-sunkizerr
 anbukakashi01
 bigdaddypump
 ninjacris000095
