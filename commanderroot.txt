@@ -1,3 +1,4 @@
+loki_smelc
 wolfsbane1046441
 cappellafumante
 pyschocurt
@@ -1715,7 +1716,6 @@ diggatixa
 x__og_boston__x
 lukajavorsek
 sklety
-kuboushi
 pr0di
 breonkel
 arohiab
@@ -19564,7 +19564,7 @@ theoboerewors
 themrklutch
 thesphinx0
 skittlesandmnm
-godlygames248
+mry_ez
 letmeliveiletyoudie
 savge11orlando22
 greendog2519
