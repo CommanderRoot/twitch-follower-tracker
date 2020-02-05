@@ -57,7 +57,7 @@ hgus39
 not_mozu
 youngsteph126
 bigpoppachuckss
-beastmodebuild
+beastmode_offf
 tor1bus
 kneeplaenty
 derek731
@@ -25818,7 +25818,6 @@ reaperonefour
 swell_sebwell
 look_at_me973
 afrocat82
-itsa_sierra
 jasz1356
 supertrimtendo
 baldbuffalo2369
