@@ -27,16 +27,16 @@ if(isset($argv[1]) && !empty($argv[1])) {
 
 // Get User ID from username (login)
 $target_user_id = '';
-$request_url = 'https://api.twitch.tv/helix/users?login='.rawurlencode($target_user);
+$request_url = 'https://api.twitch.tv/kraken/users?login='.rawurlencode($target_user);
 curl_setopt($ch, CURLOPT_URL, $request_url);
 $curl_ouput = curl_exec($ch);
 $curl_info = curl_getinfo($ch);
 if($curl_info['http_code'] == 200) {
 	$json_decode = json_decode($curl_ouput, true);
-	if($json_decode !== NULL) {
-		foreach($json_decode['data'] as $user) {
-			if($user['login'] == $target_user) {
-				$target_user_id = $user['id'];
+	if($json_decode !== null) {
+		foreach($json_decode['users'] as $user) {
+			if($user['name'] == $target_user) {
+				$target_user_id = $user['_id'];
 				break;
 			}
 		}
