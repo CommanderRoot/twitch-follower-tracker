@@ -103,7 +103,11 @@ while($keep_running === true) {
 				}
 
 				// Update cursor
-				$cursor = $json_decode['_cursor'];
+				$cursor = isset($json_decode['_cursor']) ? $json_decode['_cursor'] : '';
+				if(empty($cursor)) {
+					echo PHP_EOL.PHP_EOL.'Done!'.PHP_EOL;
+					$keep_running = false;
+				}
 			} else {
 				echo PHP_EOL.PHP_EOL.'Done!'.PHP_EOL;
 				$keep_running = false;
