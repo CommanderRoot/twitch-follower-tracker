@@ -1756,7 +1756,7 @@ king_zeus0
 seemybellybutton
 legendexile
 djnano_
-wafflee_1
+msgwafflee1
 goku_el_brujo
 prof_beansprout
 phatsxoxo
@@ -112033,7 +112033,6 @@ rayray0307
 theshedevil1
 jinnwinning
 ivoufc
-azzy780
 djfaster368
 ldog0613
 nachtgeier
