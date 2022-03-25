@@ -1179,7 +1179,7 @@ femmebot_grooves
 dxnieloxoa
 mumfordcfc
 x_icky420
-keepingonpoint
+onpointfinesses
 rollinro93
 idante85
 gricey20
@@ -97104,7 +97104,6 @@ player1events
 teckerke
 alamaksx
 jordanshow1068
-ricosantino
 ryanchef
 lil_sem_it
 yerbeo
