@@ -1,3 +1,4 @@
+jo_steez
 papirizzy
 grimxys
 ggcoralez
@@ -429,7 +430,6 @@ abo1s3dia
 visionfoxy
 rivo_24
 bee_yx3
-ad_twindad
 thegamingdood98
 xphyroelivex
 osg_jaygriff
@@ -64689,6 +64689,7 @@ mr_mustardtv
 scallo_twitch
 msr74_
 ekko_razer420
+msf_brainwash
 jhripper5
 coin_clapzz
 da_trippie_fungi
