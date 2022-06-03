@@ -19,9 +19,10 @@ curl_setopt($ch, CURLOPT_URL, 'https://gql.twitch.tv/gql');
 
 $write_to_file = true;
 if($write_to_file === true) {
-	$handle = fopen(__DIR__ . DIRECTORY_SEPARATOR . $target_user.'.txt', 'wb');
+	$handle = fopen(__DIR__ . DIRECTORY_SEPARATOR . $target_user.'.tmp.txt', 'wb');
 }
 
+$error_counter = 0;
 $cursor = '';
 $keep_running = true;
 while($keep_running === true) {
@@ -44,6 +45,15 @@ while($keep_running === true) {
 	}
 
 	redo_request:
+	if($error_counter >= 10) {
+		echo 'Over 10 errors after each other ... stopping here'.PHP_EOL;
+		if($write_to_file === true) {
+			fclose($handle);
+			unlink(__DIR__ . DIRECTORY_SEPARATOR . $target_user.'.tmp.txt');
+		}
+		exit();
+	}
+
 	// echo 'Requesting cursor: '.$cursor.PHP_EOL;
 	curl_setopt($ch, CURLOPT_POST, true);
 	curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode($gqlQuery, JSON_UNESCAPED_UNICODE));
@@ -52,6 +62,7 @@ while($keep_running === true) {
 	if($curl_info['http_code'] == 200) {
 		$json_decode = json_decode($curl_ouput, true);
 		if($json_decode !== null) {
+			$error_counter = 0;
 			if(isset($json_decode[0], $json_decode[0]['data'], $json_decode[0]['data']['user'], $json_decode[0]['data']['user']['followers'], $json_decode[0]['data']['user']['followers']['edges']) && !is_null($json_decode[0]['data']['user']['followers']['edges']) && count($json_decode[0]['data']['user']['followers']['edges']) > 0) {
 				$string = '';
 				foreach($json_decode[0]['data']['user']['followers']['edges'] as $follow) {
@@ -78,29 +89,39 @@ while($keep_running === true) {
 			}
 		} else {
 			echo 'Json_decode error ('.json_last_error_msg().') on: '.$curl_ouput.PHP_EOL;
+			$error_counter++;
+			sleep(1);
 			goto redo_request;
 		}
 	} elseif($curl_info['http_code'] == 502) {
 		// Server error so retry
 		echo '502 error'.PHP_EOL;
+		$error_counter++;
+		sleep(1);
 		goto redo_request;
 	} elseif($curl_info['http_code'] == 503) {
 		// Server error so retry
 		echo '503 error'.PHP_EOL;
+		$error_counter++;
+		sleep(1);
 		goto redo_request;
 	} elseif($curl_info['http_code'] == 0) {
 		// Timeout so retry
 		echo 'Timeout error'.PHP_EOL;
 		echo 'Curl error: '.curl_error($ch).PHP_EOL;
-		// exit();
+		$error_counter++;
+		sleep(1);
 		goto redo_request;
 	} else {
 		echo 'HTTP error: '.$curl_info['http_code'].PHP_EOL;
+		$error_counter++;
+		sleep(1);
 		goto redo_request;
 	}
 }
 
 if($write_to_file === true) {
 	fclose($handle);
+	rename(__DIR__ . DIRECTORY_SEPARATOR . $target_user.'.tmp.txt', __DIR__ . DIRECTORY_SEPARATOR . $target_user.'.txt');
 }
 
