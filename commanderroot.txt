@@ -1,3 +1,4 @@
+blackjack_oh
 needcells
 gingersnapbriyuu
 3kg_flintbattle900
@@ -350,7 +351,6 @@ err429
 dunnyau_
 jaimeisboss420_2
 bmills
-badatkarate
 jhax347
 marcyplayz
 burchfiend
@@ -39820,7 +39820,7 @@ gribz_tv
 edwardgrcv0
 flcpeaky
 k3lvin_12
-socalgrandmagamer
+hoosiergrandmagamer
 klaromin
 baddb33_313
 ashthegamingpanda
@@ -118468,7 +118468,6 @@ metapolic
 richrussianboy
 lordfeedx3
 xandereidelas
-cyco__
 hannu
 nervefx
 kellenzhd
