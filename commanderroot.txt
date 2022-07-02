@@ -25238,7 +25238,7 @@ vupok
 blagojadam
 dahzcw
 glennlama1
-sensiksquery
+squery__
 ike_themike
 flextv18
 adamw_dj
@@ -109870,7 +109870,6 @@ alan_wehrli_
 kayodex21
 mrsqueenknoxy
 spitefire22
-bubbleburster
 groovyakiba
 vulcan1138
 rey20004
