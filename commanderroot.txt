@@ -1,3 +1,4 @@
+glovo_guap
 char67_bas_rhin
 leny_cavalerie
 ttv_traps19
@@ -163,7 +164,6 @@ nomvrcy
 odyrm
 deadhunter503
 trimordious
-justlikebrockwork
 sentakukago01
 mommylonglegs1
 theonlyfish22
@@ -4306,7 +4306,6 @@ aspiref15
 littlenosehaaa
 swirlyhealer4
 smokerhuppyy
-abakedlasagna
 etownconcretenj
 henrik_gl
 thedem0n91
@@ -63092,7 +63091,6 @@ soullessreaper7
 coxero27
 manueltartamudo
 press_r_riven
-tommydunnzer
 prezspazz
 dragohorde
 linoiswild
