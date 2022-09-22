@@ -50,7 +50,6 @@ char67_bas_rhin
 leny_cavalerie
 ttv_traps19
 skemediatv
-muhladrian
 multitwitchmichael
 fenzillionaire
 samuele_cup_23
