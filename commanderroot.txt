@@ -1,3 +1,5 @@
+color_i
+tigersager_nor
 frank_drescher
 eliperofeta
 mama_wrecka
@@ -22985,7 +22987,7 @@ grainyrevamp
 bot_jacobcrees09
 taradaqtyl
 alankorrea
-joaotorres1727
+torrespowerpt
 brykzz
 ozwi
 ogw4rlord
@@ -125715,7 +125717,6 @@ acupunker
 vykingplays
 kilokweal
 zorkkys
-carbonneke
 house_of_pain_21
 busby_plays
 pabskii
