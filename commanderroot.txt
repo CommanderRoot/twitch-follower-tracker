@@ -802,7 +802,6 @@ capt_raided
 lilmorke
 rakmarred
 oscarbe1
-muertacabo
 metroiddatabase
 dillionloc83
 ryensmith2012
@@ -12813,6 +12812,7 @@ chimiapey
 pultsov11
 thewilhelmstarton
 cecianasta
+eskpapas
 z3rc4bs
 quliyevnevadein_ali
 avoura11
@@ -109761,7 +109761,7 @@ cjthareefachief
 big_dawg_277
 cruci85
 soltrock
-playwithjanjan
+janjanpng
 beargaming88
 boomicuss
 mclovinwarlord
