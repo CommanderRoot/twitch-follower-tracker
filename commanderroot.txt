@@ -2484,7 +2484,7 @@ not_lance_bass
 elina_cod
 limaozinhotv
 bigdemii
-sha_3007
+hide_3007
 sauerlandgaming06
 pcfloxx
 djramon_de
@@ -110027,7 +110027,6 @@ sakalux
 saffoo1
 thehookdaddy
 saturnspikes
-captnkarlplays
 chino7gdl
 koebel8
 guimaiagordo
@@ -135780,7 +135779,6 @@ drgreenthumbxd
 loxopro
 borbz
 bb_x_adrian
-gryhm
 fatalxsalami
 shinyoppai
 jmbiss
