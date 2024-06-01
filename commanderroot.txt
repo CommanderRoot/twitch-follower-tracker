@@ -56565,7 +56565,6 @@ sage_rascal
 alan_the_shotty
 pjosker12
 swizzer_don
-vectre1
 ops_clanfn
 chadpoker21
 mcmanusboysgaming
