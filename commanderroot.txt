@@ -192,7 +192,7 @@ opeth_jp
 mobs2r
 daedae2takk
 digital_mon
-lt_ziemniak
+patataxdcaliente
 kkvtana
 2024amal
 moneyfirst_kali
@@ -126987,7 +126987,6 @@ wirewizard1
 jamb0t
 a_mf_k1ng
 whiskeytangor6
-rhinons
 sacul_zitro
 00cathal00
 mrjooceman
