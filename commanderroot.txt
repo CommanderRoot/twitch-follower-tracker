@@ -28759,7 +28759,7 @@ ltdestler
 king_zeus0
 legendexile
 djnano_
-wafflee_1
+0wafflee
 gokuelbrujo
 prof_beansprout
 phatsxoxo
@@ -89465,7 +89465,6 @@ gasai_7u7
 oofsavage08
 shredda91
 youtube_faze
-rcn_benja
 iixxsn1p3zxxii
 kruffy5
 libellolxd357
