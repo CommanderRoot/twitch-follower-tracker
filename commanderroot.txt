@@ -4515,7 +4515,6 @@ evilkill420
 therealgaboro
 aneqiii
 monkeybiz419
-si_the_saint
 sprite38thsteet
 o_o_tireman_o_o
 feat_justhis
@@ -7826,7 +7825,7 @@ l3gendofmw3
 goldenchicken02
 cavin1304
 snorlax0077
-snake_plain
+heal_plain
 smity_5280
 lost1prophet
 toxikgrxxnz
