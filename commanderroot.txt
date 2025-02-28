@@ -36593,7 +36593,7 @@ s_darlingxx
 skinnymahi
 flyty313
 motomoto_mta
-xstatic_hitmanx
+static_hitmanx
 kingmannyx
 x_obijuan_x
 verwechelbarer
@@ -39874,7 +39874,6 @@ cdvines93
 skittix_r6
 hollyw00d_von
 ezekiel23__
-soyl3onirex
 bloodbasher69
 michejsjwkelau
 zxandall
