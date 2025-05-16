@@ -63083,7 +63083,6 @@ graveyard3377
 sebaleonr_
 elsize29
 rng_deity
-acp_quell
 bydaleeway
 k1ssofdeath187
 just_sentinel
@@ -129142,7 +129141,6 @@ aimbotaimy
 oblivionmaster559
 jdubbs9802
 mj_izzle
-multivitamingum
 jiggiesmallz
 mad_supervisor
 xarudomi12
