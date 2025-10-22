@@ -4306,7 +4306,7 @@ rollinrich216
 emberhealingpaws
 reapersoulwolf
 el_gringo_md
-justblue_3
+nova_blue3
 swang_fang
 contiyap
 trappingames
@@ -67620,7 +67620,6 @@ general_goatee
 kato086
 rxstyisrust
 dragonofrebirth
-thedeadknave
 maine_marauder
 simba18t
 atlantic2406
